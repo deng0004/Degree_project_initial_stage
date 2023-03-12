@@ -22,6 +22,10 @@ except:
 
 ```
 
+Next, I have to find codes which can help me to create a firebase library, setup local network using the socket libraries and do the calibration of MQ2 gas sensors. 
+
+Future, I will add few more MQ and MG series of gas sensors to collect more different data. 
+
 
 ## IMAGES EXPLANATION
 
