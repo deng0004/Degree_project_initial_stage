@@ -24,7 +24,7 @@ except:
 
 One of the image, which is called [data_show_in_table_through_website.PNG](https://github.com/deng0004/degree_project_initial_stage/blob/main/data_show_in_table_through_website.PNG), showed the data collected by 2 MQ2 gas sensors. The collected data will be display in a localhost website. 
 
-Besides, the image name "esp32_with_2_mq2.jpg" showed the connection of an ESP32 mirocontroller with 2 MQ2 gas sensors.
+Besides, the image name [esp32_with_2_mq2.jpg](https://github.com/deng0004/degree_project_initial_stage/blob/main/esp32_with_2_Mq2.jpg) showed the connection of an ESP32 mirocontroller with 2 MQ2 gas sensors.
 
-Also, with the image named with "firebase_data_with_2_mq2.PNG" showed the collection of MQ2 gas sensor data stored in reatime Database. 
+Also, with the image named with [firebase_data_with_2_mq2.PNG](https://github.com/deng0004/degree_project_initial_stage/blob/main/firebase_data_with_2_mq2.PNG) showed the collection of MQ2 gas sensor data stored in reatime Database. 
 
