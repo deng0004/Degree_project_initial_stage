@@ -10,7 +10,9 @@ The code of this project was written in Python language, specifically name is ca
 In Micropython, there are some special modules which I learned througout this project. 
 
 Example: 
-from machine import Pin, ADC, used to declare the Pins and Analog to Digital Conversion
+```
+from machine import Pin, ADC, 
+- used to declare the Pins and Analog to Digital Conversion
 import network as MOD_NETWORK, used to connect to wifi 
 try:
   import usocket as socket
