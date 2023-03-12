@@ -11,13 +11,14 @@ In Micropython, there are some special modules which I learned througout this pr
 
 Example: 
 ```
-from machine import Pin, ADC, 
-- used to declare the Pins and Analog to Digital Conversion
+from machine import Pin, ADC, used to declare the Pins and Analog to Digital Conversion
+
 import network as MOD_NETWORK, used to connect to wifi 
+
 try:
   import usocket as socket
 except:
-  import socket, used for websocket connection
+  import socket, used for websocket connection to setup local network connection
 
 ```
 
