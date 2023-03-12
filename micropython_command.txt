@@ -1,0 +1,7 @@
+os.rename('hello.py', 'hello_world.py') # Rename a file
+os.mkdir('test2') # make directory - create a new folder
+os.listdir() # lists all files in the current working directory
+os.chdir() # change the current working directory
+os.getcwd() # get the path of the current working directory
+os.remove('hello_world.py')  # remove file or folder
+os.stat() # get extra statistics/information about the file
